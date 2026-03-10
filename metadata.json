@@ -1,0 +1,9 @@
+{
+  "name": "Cable and Internet Network School",
+  "description": "A global digital learning platform democratizing access to quality education with AI-powered tutoring and multi-curriculum support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
